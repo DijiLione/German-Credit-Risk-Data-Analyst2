@@ -1,0 +1,11 @@
+Project ML — 3 dataset (Kaggle)
+
+1. Binary — Telco Customer Churn (7.043 baris)
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+2. Multiclass — Wine Quality (1.143 baris)
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
+3. Regression — Medical Cost / Insurance (1.338 baris)
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+
